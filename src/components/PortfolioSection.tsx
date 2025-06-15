@@ -37,7 +37,7 @@ const PortfolioSection = ({
       id: "1",
       title: "Item 1",
       imageUrl:
-        "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800&q=80",
+        "https://res.cloudinary.com/dxou9qxyq/image/upload/v1749985585/Screenshot_2025-05-28_at_10.15.50_AM_bz7uqp.png",
     },
     {
       id: "2",
