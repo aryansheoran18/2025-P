@@ -43,7 +43,7 @@ const PortfolioSection = ({
       id: "2",
       title: "Item 2",
       imageUrl:
-        "https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?w=800&q=80",
+        "",
     },
     {
       id: "3",
